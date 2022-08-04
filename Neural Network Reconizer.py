@@ -105,6 +105,11 @@ def main():
     print(f"{display_errors(best_model, data['test'][0], data['test'][1])} errors out of {len(data['test'][0])} images in test set")
     plt.show()
 
+    # random_idx = random.sample(range(0, len(data['test'][0])), 10)
+    # example = data['test'][1][random_idx]
+    # ex_pred, acc = predict(best_model, data['test'][0], data['test'][1])
+    # print(example.T)
+    # print(ex_pred[random_idx].T)
 
 if __name__ == '__main__':
     main()
