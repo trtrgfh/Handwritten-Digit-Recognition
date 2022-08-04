@@ -80,6 +80,7 @@ def select_model(data, learning_rate, epochs):
 def predict(model, X, y):
     m, n = X.shape
     prediction = model.predict(X.reshape(-1, 400))
+    # if you need a probability output then use prediction = tf.nn.softmax(prediction)
     prediction = np.argmax(prediction, axis = 1)
     prediction = prediction.reshape(m, 1)
     accuracy = np.sum((prediction == y) / m)
