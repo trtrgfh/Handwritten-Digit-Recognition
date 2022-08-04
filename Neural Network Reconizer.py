@@ -9,8 +9,8 @@ from tensorflow.keras.activations import linear, relu, sigmoid
 
 
 def load_data():
-    X = np.load("/Users/yehao/Desktop/Projects/Machine Learning Practice/Handwritten Digits Recognizer/data/X.npy")
-    y = np.load("/Users/yehao/Desktop/Projects/Machine Learning Practice/Handwritten Digits Recognizer/data/y.npy")
+    X = np.load("/Handwritten Digits Recognizer/data/X.npy")
+    y = np.load("/Handwritten Digits Recognizer/data/y.npy")
     return split_data(X, y)
 
 def split_data(X, y, train_size = 0.7):
