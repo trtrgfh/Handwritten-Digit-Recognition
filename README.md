@@ -1,7 +1,7 @@
 # Handwritten-Digits-Recognizer
 
 ## Dataset
-- The dataset contains 5000 examples of 20 pixels by 20 pixels images of handwritten digits 0-9
+- The dataset contains 5000 examples of 20 pixels by 20 pixels grayscale images of handwritten digits 0-9
 
 ## Neural Network Reconizer 
 - Two dense layers with ReLU activations
