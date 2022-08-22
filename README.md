@@ -16,7 +16,6 @@ src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo
 - train_acc: 0.9980, val_acc: 0.9347, test_acc: 0.9227
 
 ## k-nearest neighbors Reconizer
-- best_k: 150, best_max_iter: 50
 - training set accuracy: 0.8728571428571429
 - validation set accuracy: 0.8906666666666667
 - test set accuracy: 0.8586666666666667
