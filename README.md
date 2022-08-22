@@ -7,7 +7,7 @@ src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo
 
 
 ## Dataset
-- The dataset contains 5000 examples of 20 pixels by 20 pixels grayscale images of handwritten digits 0-9
+- 5000 examples of 20 pixels by 20 pixels grayscale images of handwritten digits 0-9
 - 3500 training examples, 750 validation examples, 750 test examples
 
 ## Neural Network Reconizer 
