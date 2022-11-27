@@ -17,5 +17,5 @@ src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo
 - train_acc: 0.9980, val_acc: 0.9347, test_acc: 0.9227
 
 ## k-nearest neighbors Reconizer
-- 150 centroids, 50 iterations
-- train_acc: 0.8729, val_acc: 0.8907, test_acc: 0.8587
+- 60 centroids, 30 iterations
+- train_acc: 0.8214, val_acc: 0.8440, test_acc: 0.8347
