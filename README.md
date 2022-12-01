@@ -8,7 +8,7 @@ src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=
 
 ## Description
 This project is a good practice of machine learning algorithm on image recognition.\
-The project will include two algorithms: the K-Nearest Neighbors Algorithm and the Neural Network Algorithm, and it would also try some techniques to evaluate and improve the Machine Learning Models.
+The project includes two algorithms: the K-Nearest Neighbors Algorithm and the Neural Network Algorithm, and it also tries some techniques to evaluate and improve the Machine Learning Models.
 
 ## MNIST Dataset
 https://www.kaggle.com/datasets/animatronbot/mnist-digit-recognizer
