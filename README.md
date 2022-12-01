@@ -22,4 +22,4 @@ https://www.kaggle.com/datasets/animatronbot/mnist-digit-recognizer
 
 ## K-Nearest Neighbors Reconizer
 - 60 centroids, 30 iterations
-- train_acc: 0.8214, val_acc: 0.8440, test_acc: 0.8347
+- train_acc: 0.8348, val_acc: 0.8384, test_acc: 0.8369
