@@ -6,10 +6,17 @@
 This project is a good practice of machine learning algorithm on image recognition.\
 The project includes two algorithms: the K-Nearest Neighbors Algorithm and the Neural Network Algorithm, and it also tries some techniques to evaluate and improve the Machine Learning Models.
 
+# Installation and Setup
+## Python Packages Used
+- **Data Manipulation:** numpy, pandas
+- **Data Visualization:** matplotlib
+- **Machine Learning:** tensorflow, scikit-learn
+
 # Data
 Dataset can be found at https://www.kaggle.com/datasets/animatronbot/mnist-digit-recognizer.
 - 42000 examples of 28 pixels by 28 pixels grayscale images of handwritten digits 0-9
 
+# Results and evaluation
 ## Neural Network Reconizer 
 - Number of units in each layer: 784 -> 25 -> 15 -> 10
 - Two hidden dense layers with ReLU activations
