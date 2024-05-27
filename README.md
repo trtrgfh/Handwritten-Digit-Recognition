@@ -1,17 +1,13 @@
-# Handwritten-Digit-Recognition
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />  <img alt="Numpy" 
-src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img alt="Scikit-Learn" 
-src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img alt="TensorFlow" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/> <img alt="Keras" 
-src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=00b35a&labelColor=00b35a" /> <img alt="Pycharm" 
-src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /> <img alt="Pandas" 
-src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /> 
+<img src="https://github.com/trtrgfh/Handwritten-Digit-Recognition/assets/73056232/bcca0d8f-4664-4306-9f09-cd371c1e9124" width="500"/>
 
-## Description
+# Handwritten-Digit-Recognition
+
+# Project Overview
 This project is a good practice of machine learning algorithm on image recognition.\
 The project includes two algorithms: the K-Nearest Neighbors Algorithm and the Neural Network Algorithm, and it also tries some techniques to evaluate and improve the Machine Learning Models.
 
-## MNIST Dataset
-https://www.kaggle.com/datasets/animatronbot/mnist-digit-recognizer
+# Data
+Dataset can be found at https://www.kaggle.com/datasets/animatronbot/mnist-digit-recognizer.
 - 42000 examples of 28 pixels by 28 pixels grayscale images of handwritten digits 0-9
 
 ## Neural Network Reconizer 
