@@ -3,8 +3,7 @@
 # Handwritten-Digit-Recognition
 
 # Project Overview
-This project is a good practice of machine learning algorithm on image recognition.\
-The project includes two algorithms: the K-Nearest Neighbors Algorithm and the Neural Network Algorithm, and it also tries some techniques to evaluate and improve the Machine Learning Models.
+This project serves as a valuable practice in applying machine learning algorithms to image recognition. It involves implementing two key algorithms: the K-Nearest Neighbors (KNN) Algorithm and the Neural Network Algorithm. Additionally, the project explores various techniques to evaluate and enhance the performance of these machine learning models.
 
 # Installation and Setup
 ## Python Packages Used
